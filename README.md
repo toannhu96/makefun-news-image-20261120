@@ -1,8 +1,8 @@
 # World News in One Image — 20 November 2026
 
-![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)
-![prize $250 USDC](https://img.shields.io/badge/prize-%24250%20USDC-16a34a)
-![bounty news-image-20261120](https://img.shields.io/badge/bounty-news--image--20261120-0ea5e9)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/toannhu96/makefun-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/toannhu96/makefun-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 This project renders a 1024x1024 poster that sums up the day's world news. Running `main.ts` copies `entry.png` to `$MAKEFUN_OUTPUT_DIR/entry.png`.
 
